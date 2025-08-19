@@ -1,5 +1,4 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/eVYkG5V.gif" width="100%" alt="Space Banner"/>
 
 <h1 align="center">🌌 Hey there, I'm Alex Coursey 🚀</h1>
 <p align="center">
@@ -55,8 +54,3 @@
 — Douglas Adams  
 
 ---
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/5xKX8lL.gif" width="600"/>
-</p>
