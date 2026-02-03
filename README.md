@@ -46,11 +46,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Alex%20Coursey-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
-
----
-
-### ✨ Fun Fact  
-> "Space is big. Really big. You just won’t believe how vastly, hugely, mind-bogglingly big it is."  
-— Douglas Adams  
-
----
